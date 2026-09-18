@@ -4,7 +4,7 @@
 
 | `azip` | `title` | `description` | `author` | `discussions-to` | `status` | `category` | `created` |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 28 | Update L1 Gas Constants for Glamsterdam | Updates fee-model gas constants for checkpoint proposals and epoch proofs ahead of Ethereum's Glamsterdam fork. | Santiago Palladino (@spalladino, santiago@aztec-labs.com) | N/A | Draft | Economics | 2026-09-18 |
+| 28 | Update L1 Gas Constants for Glamsterdam | Updates fee-model gas constants for checkpoint proposals and epoch proofs ahead of Ethereum's Glamsterdam fork. | Santiago Palladino (@spalladino, santiago@aztec-labs.com) | https://github.com/AztecProtocol/governance/discussions/69 | Draft | Economics | 2026-09-18 |
 
 ## Abstract
 
